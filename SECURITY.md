@@ -9,3 +9,4 @@ We will only maintain one branch which is the master branch. Unless otherwise re
 For a vulnerability of low to no severity, which causing no threats to security, you may report it openly to us by [opening an issue](https://github.com/fenkoray/utls/issues/new)
 
 If the vulnerability you are reporting inflicts some security impact, please [do so privately](https://github.com/fenkoray/utls/security/advisories/new).
+
